@@ -15,10 +15,7 @@ O BLUE FOOTPRINT é uma aplicação Java desenvolvida para auxiliar empresas na 
 - [Uso](#uso)
 - [Categorias e Perguntas](#categorias-e-perguntas)
 - [Cálculo do Impacto](#cálculo-do-impacto)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 - [Autores](#autores)
-- [Agradecimentos](#agradecimentos)
 
 ## Instalação
 
@@ -79,12 +76,16 @@ Se a empresa obteve uma pontuação de 5 em Resíduos, 7 em Emissões, 3 em Uso 
 **Impacto Total: 1.5 + 2.1 + 0.6 + 1.6 = 5.8**
 ## Resultados possíveis
 **Baixo Impacto:**
+
 ![Imagem Baixo Impacto](blueFootprint/IMAGENS/finalBaixoImpacto.png)
 **Impacto Moderado:**
+
 ![Imagem Impacto Moderado](blueFootprint/IMAGENS/finalImpactoModerado.png)
 **Alto Impacto:**
+
 ![Imagem Alto Impacto](blueFootprint/IMAGENS/finalAltoImpacto.png)
 **Altíssimo Impacto:**
+
 ![Imagem Altíssimo Impacto](blueFootprint/IMAGENS/finalAltissimoImpacto.png)
 
 ## Autor

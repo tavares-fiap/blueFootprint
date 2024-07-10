@@ -75,16 +75,19 @@ Se a empresa obteve uma pontuação de 5 em Resíduos, 7 em Emissões, 3 em Uso 
 
 **Impacto Total: 1.5 + 2.1 + 0.6 + 1.6 = 5.8**
 ## Resultados possíveis
-**Baixo Impacto:**
+**Baixo Impacto (0 -> 2):**
 
 ![Imagem Baixo Impacto](blueFootprint/IMAGENS/finalBaixoImpacto.png)
-**Impacto Moderado:**
+
+**Impacto Moderado(3 -> 4):**
 
 ![Imagem Impacto Moderado](blueFootprint/IMAGENS/finalImpactoModerado.png)
-**Alto Impacto:**
+
+**Alto Impacto(5 -> 7):**
 
 ![Imagem Alto Impacto](blueFootprint/IMAGENS/finalAltoImpacto.png)
-**Altíssimo Impacto:**
+
+**Altíssimo Impacto(8 -> 10):**
 
 ![Imagem Altíssimo Impacto](blueFootprint/IMAGENS/finalAltissimoImpacto.png)
 

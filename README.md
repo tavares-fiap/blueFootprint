@@ -93,5 +93,5 @@ Se a empresa obteve uma pontuação de 5 em Resíduos, 7 em Emissões, 3 em Uso 
 
 ## Autor
 
-- [Pedro Tavares](www.linkedin.com/in/pedro-tavares-7ab626297)
+- [Pedro Tavares](https://www.linkedin.com/in/pedro-tavares-7ab626297)
 
